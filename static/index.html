@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Movie Shadowing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header id="topbar" hidden>
+    <a class="brand" href="#/">🎬 Movie Shadowing</a>
+    <nav>
+      <a href="#/" data-route="/">Home</a>
+      <a href="#/movies" data-route="/movies">Movies</a>
+      <a href="#/tutor" data-route="/tutor">AI Tutor</a>
+      <a href="#/review" data-route="/review">Review</a>
+      <a href="#/progress" data-route="/progress">Progress</a>
+      <a href="#/assessment" data-route="/assessment">Level test</a>
+    </nav>
+    <span id="who"></span>
+    <button id="logout" class="link">Log out</button>
+  </header>
+  <main id="view"></main>
+  <div id="toast" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

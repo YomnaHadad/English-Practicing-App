@@ -1,0 +1,326 @@
+[
+ {
+  "id": "v1",
+  "skill": "vocab",
+  "level": "A1",
+  "prompt": "Which word is the opposite of 'big'?",
+  "options": [
+   "long",
+   "tall",
+   "old",
+   "small"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "v2",
+  "skill": "vocab",
+  "level": "A2",
+  "prompt": "She is very ___. She never tells lies.",
+  "options": [
+   "hungry",
+   "noisy",
+   "honest",
+   "lazy"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "v3",
+  "skill": "vocab",
+  "level": "B1",
+  "prompt": "The meeting was ___ because the manager was ill.",
+  "options": [
+   "recorded",
+   "borrowed",
+   "repaired",
+   "postponed"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "v4",
+  "skill": "vocab",
+  "level": "B2",
+  "prompt": "He gave a ___ excuse that nobody believed.",
+  "options": [
+   "fertile",
+   "frugal",
+   "flimsy",
+   "fluent"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "v5",
+  "skill": "vocab",
+  "level": "C1",
+  "prompt": "The strict new rules proved ___: employees became less motivated, not more.",
+  "options": [
+   "congenial",
+   "compulsory",
+   "conclusive",
+   "counterproductive"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "v6",
+  "skill": "vocab",
+  "level": "C2",
+  "prompt": "Her ___ remarks revealed how little she actually understood the project.",
+  "options": [
+   "vigilant",
+   "vindicated",
+   "venerable",
+   "vacuous"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "g1",
+  "skill": "grammar",
+  "level": "A1",
+  "prompt": "She ___ a teacher.",
+  "options": [
+   "am",
+   "are",
+   "is",
+   "be"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "g2",
+  "skill": "grammar",
+  "level": "A2",
+  "prompt": "I ___ to the cinema yesterday.",
+  "options": [
+   "go",
+   "going",
+   "went",
+   "goes"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "g3",
+  "skill": "grammar",
+  "level": "B1",
+  "prompt": "If it rains tomorrow, we ___ at home.",
+  "options": [
+   "will stay",
+   "stayed",
+   "would stay",
+   "staying"
+  ],
+  "answer": 0
+ },
+ {
+  "id": "g4",
+  "skill": "grammar",
+  "level": "B2",
+  "prompt": "By the time we arrived, the film ___.",
+  "options": [
+   "has already started",
+   "was already start",
+   "had already started",
+   "already started"
+  ],
+  "answer": 2
+ },
+ {
+  "id": "g5",
+  "skill": "grammar",
+  "level": "C1",
+  "prompt": "Hardly ___ the door when the phone rang.",
+  "options": [
+   "she opened",
+   "she had opened",
+   "did she open",
+   "had she opened"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "g6",
+  "skill": "grammar",
+  "level": "C2",
+  "prompt": "Not until the results were published ___ the scale of the problem.",
+  "options": [
+   "realised we",
+   "we did realise",
+   "we realised",
+   "did we realise"
+  ],
+  "answer": 3
+ },
+ {
+  "id": "r1",
+  "skill": "reading",
+  "level": "A1",
+  "prompt": "What colour is the dog?",
+  "options": [
+   "Red",
+   "Black",
+   "Brown",
+   "White"
+  ],
+  "answer": 2,
+  "passage": "Tom has a dog. The dog is brown. Tom walks the dog every day."
+ },
+ {
+  "id": "r2",
+  "skill": "reading",
+  "level": "A2",
+  "prompt": "When does Anna play tennis?",
+  "options": [
+   "On Friday",
+   "On Sunday",
+   "On Monday",
+   "On Saturday"
+  ],
+  "answer": 3,
+  "passage": "Anna works in a shop from Monday to Friday. On Saturday she plays tennis, and on Sunday she visits her grandmother."
+ },
+ {
+  "id": "r3",
+  "skill": "reading",
+  "level": "B1",
+  "prompt": "How did Mark improve his cooking?",
+  "options": [
+   "He watched videos and practised",
+   "He took a cooking course",
+   "He ate in restaurants",
+   "He asked his friends for help"
+  ],
+  "answer": 0,
+  "passage": "Last summer, Mark decided to learn to cook. At first, his meals were terrible, but he watched online videos and practised every evening. Now his friends often ask him to prepare dinner."
+ },
+ {
+  "id": "r4",
+  "skill": "reading",
+  "level": "B2",
+  "prompt": "Why are companies trying hybrid schedules?",
+  "options": [
+   "To increase commuting time",
+   "To keep the flexibility of remote work while reducing isolation",
+   "To make everyone return to the office full time",
+   "To save money on office rent"
+  ],
+  "answer": 1,
+  "passage": "Although remote work reduces commuting time, some employees report feeling isolated. Companies are therefore experimenting with hybrid schedules that combine home and office days."
+ },
+ {
+  "id": "r5",
+  "skill": "reading",
+  "level": "C1",
+  "prompt": "What is the author's main point?",
+  "options": [
+   "Economic growth should be avoided",
+   "Resentment is the main driver of prosperity",
+   "Well-being has nothing to do with wealth",
+   "Growth improves well-being only when its benefits are shared fairly"
+  ],
+  "answer": 3,
+  "passage": "The author argues that economic growth, while necessary, cannot by itself guarantee well-being; without fair distribution, its benefits accrue to a narrow few, breeding resentment rather than prosperity."
+ },
+ {
+  "id": "r6",
+  "skill": "reading",
+  "level": "C2",
+  "prompt": "What does the writer suggest about the census?",
+  "options": [
+   "It is a neutral tool that only records facts",
+   "It is mainly about counting more people",
+   "It helps create the identities it claims to merely measure",
+   "It has been abandoned because it was inaccurate"
+  ],
+  "answer": 2,
+  "passage": "Far from being a neutral instrument, the census has historically served to define the very populations it purports merely to count, imposing categories that people later came to inhabit."
+ },
+ {
+  "id": "l1",
+  "skill": "listening",
+  "level": "A1",
+  "prompt": "Where is Sara from?",
+  "options": [
+   "Germany",
+   "France",
+   "Italy",
+   "Spain"
+  ],
+  "answer": 3,
+  "audio_text": "My name is Sara. I am from Spain."
+ },
+ {
+  "id": "l2",
+  "skill": "listening",
+  "level": "A2",
+  "prompt": "When does the train leave?",
+  "options": [
+   "9:30",
+   "9:15",
+   "4:00",
+   "10:30"
+  ],
+  "answer": 0,
+  "audio_text": "The train to London leaves at half past nine from platform four."
+ },
+ {
+  "id": "l3",
+  "skill": "listening",
+  "level": "B1",
+  "prompt": "Why did the speaker stay at home?",
+  "options": [
+   "Because it rained",
+   "Because she was ill",
+   "Because she had guests",
+   "Because she was tired"
+  ],
+  "answer": 0,
+  "audio_text": "I was going to go for a run this morning, but it started raining, so I stayed at home and read a book instead."
+ },
+ {
+  "id": "l4",
+  "skill": "listening",
+  "level": "B2",
+  "prompt": "What does the speaker mean?",
+  "options": [
+   "He declines politely but suggests another time",
+   "He is cancelling the dinner for everyone",
+   "He wants help with his report",
+   "He accepts the invitation"
+  ],
+  "answer": 0,
+  "audio_text": "I'd love to join you for dinner, but I have a report due first thing tomorrow, so I'll have to work late. Maybe next week?"
+ },
+ {
+  "id": "l5",
+  "skill": "listening",
+  "level": "C1",
+  "prompt": "What does the speaker think of the findings?",
+  "options": [
+   "They settled the issue",
+   "They were ignored by everyone",
+   "They were completely wrong",
+   "They were inconclusive and raised more questions"
+  ],
+  "answer": 3,
+  "audio_text": "The findings were hardly conclusive. If anything, they raised more questions than they answered."
+ },
+ {
+  "id": "l6",
+  "skill": "listening",
+  "level": "C2",
+  "prompt": "What is the speaker's attitude?",
+  "options": [
+   "Open hostility",
+   "Complete indifference",
+   "Guarded disappointment",
+   "Enthusiastic praise"
+  ],
+  "answer": 2,
+  "audio_text": "Well, I wouldn't go so far as to call it a failure, but it certainly fell short of what anyone had reasonably expected."
+ }
+]
